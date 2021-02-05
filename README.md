@@ -23,10 +23,11 @@ If the user said no, this would end the application and export the HTML file wit
 <img src="/images/main_app.gif">
 
 
-[Video Link]
+[Video: Initialize and dependencies]
 (https://drive.google.com/file/d/1oKNL2Lid78hXYkOJRnlkG_Cd9_HW4-M6/view?usp=sharing)
 
-[Video Link]("/images/MainCLI.mp4")
+[Video: main CLI App]
+(https://drive.google.com/file/d/10P9jcbY6QuLP6pchJz2jIYV9VXObEuIQ/view?usp=sharing)
 
 ## Table of Contents
 

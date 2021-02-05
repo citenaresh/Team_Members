@@ -22,10 +22,6 @@ If the user said no, this would end the application and export the HTML file wit
 
 <img src="/images/main_app.gif">
 
-[Video Link]
-(https://github.com/citenaresh/Team_Members//images/init_Short.mp4)
-
-[Video Link]("/images/init_Short_2.mp4")
 
 [Video Link]
 (https://drive.google.com/file/d/1oKNL2Lid78hXYkOJRnlkG_Cd9_HW4-M6/view?usp=sharing)

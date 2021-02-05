@@ -22,7 +22,7 @@ If the user said no, this would end the application and export the HTML file wit
 
 <img src="/images/main_app.gif">
 
-[Video Link]("/images/init_Short.mp4")
+[Video Link](/images/init_Short.mp4)
 
 [Video Link]("/images/init_Short_2.mp4")
 

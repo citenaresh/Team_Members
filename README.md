@@ -26,7 +26,8 @@ If the user said no, this would end the application and export the HTML file wit
 
 [Video Link]("/images/init_Short_2.mp4")
 
-[Video Link](https://drive.google.com/file/d/1oKNL2Lid78hXYkOJRnlkG_Cd9_HW4-M6/view?usp=sharing)
+[Video Link]
+(https://drive.google.com/file/d/1oKNL2Lid78hXYkOJRnlkG_Cd9_HW4-M6/view?usp=sharing)
 
 [Video Link]("/images/MainCLI.mp4")
 

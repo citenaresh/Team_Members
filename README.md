@@ -75,8 +75,8 @@ To use the app, run app.js from your terminal and answer the prompted questions 
 
 ## Tests
 
-The repo folder for this application includes four tests that are designed to test the functionality and information validation for the employee class and its three extended inheritance classes for Manager, Engineer, and Intern. These tests can be ran with the Jest node package dependency (which
-will be installed when npm install is ran) and will detail how the structure of the class constructor and its extensions pass all validation tests.
+The test folder for this application includes four tests that are designed to test the functionality and information validation for the employee class and its three extended inheritance classes for Manager, Engineer, and Intern. These tests can be run with the Jest node package dependency (which
+will be installed when npm install is run) and these tests are how the structure of the class constructor and its extensions pass all validation tests.
 
 ## Authors
 
